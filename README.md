@@ -1,14 +1,14 @@
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="./img/samuel-stefanik-banner-dark.svg"
+        srcset="./img/banner-dark.svg"
     />
     <source
         media="(prefers-color-scheme: light)"
-        srcset="./img/samuel-stefanik-banner-light.svg"
+        srcset="./img/banner-light.svg"
     />
     <img
-        src="./img/samuel-stefanik-banner-dark.svg"
+        src="./img/banner-dark.svg"
         alt="Samuel Štefánik — Backend & Full-Stack Developer"
         width="100%"
     />
