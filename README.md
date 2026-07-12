@@ -41,9 +41,24 @@ I&nbsp;enjoy designing maintainable software, scalable backend systems, and mode
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ## Contact
-<a href="https://www.linkedin.com/in/samuel-%C5%A1tef%C3%A1nik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:samostefanik03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p style="display: flex; align-items: center; gap: 0.5rem;">
+    <a href="https://www.linkedin.com/in/samuel-stefanik">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a>
+    <strong>
+        <a href="https://www.linkedin.com/in/samuel-stefanik">
+        https://www.linkedin.com/in/samuel-stefanik
+        </a>
+    </strong>
+</p>
+
+<p style="display: flex; align-items: center; gap: 0.5rem;">
+    <a href="mailto:samostefanik03@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>
+    <strong>
+        <a href="mailto:samostefanik03@gmail.com">
+        samostefanik03@gmail.com
+        </a>
+    </strong>
+</p>
