@@ -1,4 +1,18 @@
-<img src="img/banner.svg" alt="Banner">
+<picture>
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./assets/samuel-stefanik-banner-dark.svg"
+    />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="./assets/samuel-stefanik-banner-light.svg"
+    />
+    <img
+        src="./assets/samuel-stefanik-banner-dark.svg"
+        alt="Samuel Štefánik — Backend & Full-Stack Developer"
+        width="100%"
+    />
+</picture>
 
 ## About Me
 
